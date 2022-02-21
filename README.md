@@ -23,3 +23,4 @@
 ### OS X 10.7 -> OS X 10.11
 1. Copy installation file `Install OS X El Capitan` to Applications
 2. Change system date to year `2017`
+3. Run installation file and then follow instruction
